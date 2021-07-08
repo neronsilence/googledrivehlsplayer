@@ -1,4 +1,4 @@
-# Google Drive HLS Player
+# Google Drive HLS Video Player
 
 Video Streaming Script solutions for Movie & Series sites.
 
